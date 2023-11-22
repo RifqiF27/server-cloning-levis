@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Levi's 501 Jeans",
+    "slug": "levis-501-jeans",
+    "description": "Classic Levi's jeans",
+    "price": 599900,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-501-54-jeans-A46770015_01_Front.jpg",
+    "categoryId": 1,
+    "userMongoId": "654e1cf173fdfec5208fed6a"
+  },
+  {
+    "id": 2,
+    "name": "Levi's Denim Jacket",
+    "slug": "levis-denim-jacket",
+    "description": "Stylish Levi's denim jacket",
+    "price": 1119990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-type-i-trucker-jacket-A31740006_01_Front.jpg",
+    "categoryId": 2,
+    "userMongoId": "654e1d2373fdfec5208fed6b"
+  },
+  {
+    "id": 3,
+    "name": "Levi's Graphic T-Shirt",
+    "slug": "levis-graphic-t-shirt",
+    "description": "Cool Levi's graphic t-shirt",
+    "price": 259990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-graphic-ringer-mini-t-shirt-A35230022_01_Front.jpg",
+    "categoryId": 3,
+    "userMongoId": "654e1d3673fdfec5208fed6c"
+  },
+  {
+    "id": 4,
+    "name": "Levi's High-Waisted Jeans",
+    "slug": "levis-high-waisted-jeans",
+    "description": "Trendy high-waisted Levi's jeans",
+    "price": 1059990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-721-high-rise-skinny-jeans-188820673_01_Front.jpg",
+    "categoryId": 1,
+    "userMongoId": "654e1d6b73fdfec5208fed6d"
+  },
+  {
+    "id": 5,
+    "name": "Levi's Sweaters Hoodie",
+    "slug": "levis-sweaters-hoodie",
+    "description": "Warm Levi's sweaters hoodie",
+    "price": 799900,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-gold-tab-90s-raw-cut-hoodie-A37310009_01_Front.jpg",
+    "categoryId": 2,
+    "userMongoId": "654e1cf173fdfec5208fed6a"
+  },
+  {
+    "id": 6,
+    "name": "Levi's Slim Fit Jeans",
+    "slug": "levis-slim-fit-jeans",
+    "description": "Stylish Levi's slim fit jeans",
+    "price": 2989990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-levis-made-and-crafted-511-slim-fit-jeans-564970080_01_Front.jpg",
+    "categoryId": 1,
+    "userMongoId": "654e1d6b73fdfec5208fed6d"
+  },
+  {
+    "id": 7,
+    "name": "Levi's Hooded Sweatshirt",
+    "slug": "levis-hooded-sweatshirt",
+    "description": "Cozy Levi's hooded sweatshirt",
+    "price": 859990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-graphic-relaxed-fit-hoodie-388210145_01_Front.jpg",
+    "categoryId": 3,
+    "userMongoId": "654e1d2373fdfec5208fed6b"
+  },
+  {
+    "id": 8,
+    "name": "Levi's Denim Skirt",
+    "slug": "levis-denim-skirt",
+    "description": "Casual Levi's denim skirt",
+    "price": 1029990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-made-and-crafted-womens-safari-denim-skirt-A05810000_01_Front.jpg",
+    "categoryId": 1,
+    "userMongoId": "654e1cf173fdfec5208fed6a"
+  },
+  {
+    "id": 9,
+    "name": "Levi's Classic Denim Shirt",
+    "slug": "levis-classic-denim-shirt",
+    "description": "Timeless Levi's denim shirt",
+    "price": 829990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/Levis-Mens-Relaxed-Fit-Western-Shirt-A19190027_01_Front.jpg",
+    "categoryId": 2,
+    "userMongoId": "654e1d3673fdfec5208fed6c"
+  },
+  {
+    "id": 10,
+    "name": "Levi's Trucker Jacket",
+    "slug": "levis-trucker-jacket",
+    "description": "Iconic Levi's trucker jacket",
+    "price": 1689990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-90s-trucker-jacket-A17430000_01_Front.jpg",
+    "categoryId": 2,
+    "userMongoId": "654e1d2373fdfec5208fed6b"
+  },
+  {
+    "id": 11,
+    "name": "Levi's Skinny Jeans",
+    "slug": "levis-skinny-jeans",
+    "description": "Fashionable Levi's skinny jeans",
+    "price": 929990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-311-shaping-skinny-jeans-new-196260001_01_Front.jpg",
+    "categoryId": 1,
+    "userMongoId": "654e1cf173fdfec5208fed6a"
+  },
+  {
+    "id": 12,
+    "name": "Levi's Vintage Denim Jacket",
+    "slug": "levis-vintage-denim-jacket",
+    "description": "Classic vintage Levi's denim jacket",
+    "price": 729990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-vintage-fit-trucker-jacket-773800060_01_Front.jpg",
+    "categoryId": 2,
+    "userMongoId": "654e1d6b73fdfec5208fed6d"
+  },
+  {
+    "id": 13,
+    "name": "Levi's 501 Shorts",
+    "slug": "levis-501-shorts",
+    "description": "Comfortable Levi's 501 shorts",
+    "price": 389990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-gold-tab-tee-A37180021_01_Front.jpg",
+    "categoryId": 1,
+    "userMongoId": "654e1d2373fdfec5208fed6b"
+  },
+  {
+    "id": 14,
+    "name": "Levi's Logo T-Shirt",
+    "slug": "levis-logo-t-shirt",
+    "description": "Levi's branded logo t-shirt",
+    "price": 289990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/Levis-Slim-Crew-Neck-Tee-322230457_01_Front.jpg",
+    "categoryId": 3,
+    "userMongoId": "654e1d3673fdfec5208fed6c"
+  },
+  {
+    "id": 15,
+    "name": "Levi's Ribcage Jeans",
+    "slug": "levis-ribcage-jeans",
+    "description": "Levi's high-waisted ribcage jeans",
+    "price": 1199990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-ribcage-straight-ankle-jeans-726930163_01_Front.jpg",
+    "categoryId": 1,
+    "userMongoId": "654e1d2373fdfec5208fed6b"
+  },
+  {
+    "id": 16,
+    "name": "Levi's Plaid Shirt",
+    "slug": "levis-plaid-shirt",
+    "description": "Stylish Levi's plaid shirt",
+    "price": 459990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-nola-oversized-shirt-A33620027_01_Front.jpg",
+    "categoryId": 2,
+    "userMongoId": "654e1d3673fdfec5208fed6c"
+  },
+  {
+    "id": 17,
+    "name": "Levi's Denim Shorts",
+    "slug": "levis-denim-shorts",
+    "description": "Casual Levi's denim shorts",
+    "price": 429990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-high-rise-denim-shorts-728780071_01_Front.jpg",
+    "categoryId": 1,
+    "userMongoId": "654e1d6b73fdfec5208fed6d"
+  },
+  {
+    "id": 18,
+    "name": "Levi's Track Pants",
+    "slug": "levis-track-pants",
+    "description": "Comfortable Levi's track pants",
+    "price": 699900,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-gold-tab-mens-bay-track-pants-A57010003_01_Front.jpg",
+    "categoryId": 1,
+    "userMongoId": "654e1d3673fdfec5208fed6c"
+  },
+  {
+    "id": 19,
+    "name": "Levi's Logo Hoodie",
+    "slug": "levis-logo-hoodie",
+    "description": "Levi's logo hoodie for a sporty look",
+    "price": 559990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-standard-hoodie-184870110_01_Front.jpg",
+    "categoryId": 3,
+    "userMongoId": "654e1cf173fdfec5208fed6a"
+  },
+  {
+    "id": 20,
+    "name": "Levi's Distressed Jeans",
+    "slug": "levis-distressed-jeans",
+    "description": "Levi's distressed jeans for a rugged look",
+    "price": 1659990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-501-54-jeans-A46770001_01_Front.jpg",
+    "categoryId": 1,
+    "userMongoId": "654e1d2373fdfec5208fed6b"
+  },
+  {
+    "id": 21,
+    "name": "Levi's Denim Backpack",
+    "slug": "levis-denim-backpack",
+    "description": "Levi's stylish denim backpack",
+    "price": 599900, 
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-large-l-pack-backpack-D75720010_01_Front.jpg",
+    "categoryId": 4, 
+    "userMongoId": "654e1d3673fdfec5208fed6c"
+  },
+  {
+    "id": 22,
+    "name": "Levi's Logo Cap",
+    "slug": "levis-logo-cap",
+    "description": "Levi's branded logo cap",
+    "price": 159990, 
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-cap-with-batwing-logo-D54480002_01_Front.jpg",
+    "categoryId": 4, 
+    "userMongoId": "654e1d2373fdfec5208fed6b"
+  },
+  {
+    "id": 23,
+    "name": "Levi's Denim Dress",
+    "slug": "levis-denim-dress",
+    "description": "Casual Levi's denim dress",
+    "price": 429990, 
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/Levis-Womens-Veda-Denim-Dress-A58370002_01_Front.jpg",
+    "categoryId": 3, 
+    "userMongoId": "654e1d6b73fdfec5208fed6d"
+  },
+  {
+    "id": 24,
+    "name": "Levi's Plaid Flannel Shirt",
+    "slug": "levis-plaid-flannel-shirt",
+    "description": "Levi's cozy plaid flannel shirt",
+    "price": 389990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-jackson-worker-overshirt-195730201_01_Front.jpg",
+    "categoryId": 2,
+    "userMongoId": "654e1d6b73fdfec5208fed6d"
+  },
+  {
+    "id": 25,
+    "name": "Levi's Logo Belt",
+    "slug": "levis-logo-belt",
+    "description": "Levi's branded logo belt",
+    "price": 529990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-louis-reversible-belt-D60080001_01_Front.jpg",
+    "categoryId": 4,
+    "userMongoId": "654e1cf173fdfec5208fed6a"
+  },
+  {
+    "id": 26,
+    "name": "Levi's Oversized Denim Jacket",
+    "slug": "levis-oversized-denim-jacket",
+    "description": "Levi's oversized denim jacket for a trendy look",
+    "price": 699990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-made-and-crafted-mens-oversized-type-ii-trucker-jacket-212610025_01_Front.jpg",
+    "categoryId": 2,
+    "userMongoId": "654e1d3673fdfec5208fed6c"
+  },
+  {
+    "id": 27,
+    "name": "Levi's Denim Bucket Hat",
+    "slug": "levis-denim-bucket-hat",
+    "description": "Levi's stylish denim bucket hat",
+    "price": 289990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-poster-logo-bucket-hat-D76090006_01_Front.jpg",
+    "categoryId": 4,
+    "userMongoId": "654e1d6b73fdfec5208fed6d"
+  },
+  {
+    "id": 28,
+    "name": "Levi's Graphic Cap",
+    "slug": "levis-graphic-cap",
+    "description": "Levi's graphic cap for comfort",
+    "price": 269990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/Levis-Mens-Mini-Graphic-Baseball-Cap-New-D78130003_14_Details.jpg",
+    "categoryId": 4,
+    "userMongoId": "654e1d2373fdfec5208fed6b"
+  },
+  {
+    "id": 29,
+    "name": "Levi's Sherpa Lined Jacket",
+    "slug": "levis-sherpa-lined-jacket",
+    "description": "Levi's sherpa-lined jacket for extra warmth",
+    "price": 1559990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-sutro-anorak-jacket-A20400000_01_Front.jpg",
+    "categoryId": 2,
+    "userMongoId": "654e1cf173fdfec5208fed6a"
+  },
+  {
+    "id": 30,
+    "name": "Levi's Bucket Hat",
+    "slug": "levis-bucket-hat",
+    "description": "Levi's classic bucket hat",
+    "price": 329990,
+    "mainImg": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-bucket-hat-D75840006_01_Front.jpg",
+    "categoryId": 4,
+    "userMongoId": "654e1d3673fdfec5208fed6c"
+  }
+]

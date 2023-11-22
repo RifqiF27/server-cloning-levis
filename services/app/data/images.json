@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "productId": 1,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-501-54-jeans-A46770015_02_Back.jpg"
+  },
+  {
+    "id": 2,
+    "productId": 1,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-501-54-jeans-A46770015_03_Side.jpg"
+  },
+  {
+    "id": 3,
+    "productId": 1,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-501-54-jeans-A46770015_10_Model%20Front.jpg"
+  },
+  {
+    "id": 4,
+    "productId": 2,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-type-i-trucker-jacket-A31740006_02_Back.jpg"
+  },
+  {
+    "id": 5,
+    "productId": 2,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-type-i-trucker-jacket-A31740006_14_Details.jpg"
+  },
+  {
+    "id": 6,
+    "productId": 2,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-type-i-trucker-jacket-A31740006_15_Details.jpg"
+  },
+  {
+    "id": 7,
+    "productId": 3,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-graphic-ringer-mini-t-shirt-A35230022_02_Back.jpg"
+  },
+  {
+    "id": 8,
+    "productId": 3,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-graphic-ringer-mini-t-shirt-A35230022_10_Model%20Front.jpg"
+  },
+  {
+    "id": 9,
+    "productId": 3,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-graphic-ringer-mini-t-shirt-A35230022_14_Details.jpg"
+  },
+  {
+    "id": 10,
+    "productId": 4,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-721-high-rise-skinny-jeans-188820673_02_Back.jpg"
+  },
+  {
+    "id": 11,
+    "productId": 4,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-721-high-rise-skinny-jeans-188820673_03_Side.jpg"
+  },
+  {
+    "id": 12,
+    "productId": 4,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-721-high-rise-skinny-jeans-188820673_10_Model%20Front.jpg"
+  },
+  {
+    "id": 13,
+    "productId": 5,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-gold-tab-90s-raw-cut-hoodie-A37310009_02_Back.jpg"
+  },
+  {
+    "id": 14,
+    "productId": 5,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-gold-tab-90s-raw-cut-hoodie-A37310009_10_Model%20Front.jpg"
+  },
+  {
+    "id": 15,
+    "productId": 5,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-gold-tab-90s-raw-cut-hoodie-A37310009_13_Details.jpg"
+  },
+  {
+    "id": 16,
+    "productId": 6,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-levis-made-and-crafted-511-slim-fit-jeans-564970080_02_Back.jpg"
+  },
+  {
+    "id": 17,
+    "productId": 6,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-levis-made-and-crafted-511-slim-fit-jeans-564970080_03_Side.jpg"
+  },
+  {
+    "id": 18,
+    "productId": 6,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-levis-made-and-crafted-511-slim-fit-jeans-564970080_13_Details.jpg"
+  },
+  {
+    "id": 19,
+    "productId": 7,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-graphic-relaxed-fit-hoodie-388210145_02_Back.jpg"
+  },
+  {
+    "id": 20,
+    "productId": 7,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-graphic-relaxed-fit-hoodie-388210145_10_Model%20Front.jpg"
+  },
+  {
+    "id": 21,
+    "productId": 7,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-graphic-relaxed-fit-hoodie-388210145_14_Details.jpg"
+  },
+  {
+    "id": 22,
+    "productId": 8,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-made-and-crafted-womens-safari-denim-skirt-A05810000_02_Back.jpg"
+  },
+  {
+    "id": 23,
+    "productId": 8,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-made-and-crafted-womens-safari-denim-skirt-A05810000_03_Side.jpg"
+  },
+  {
+    "id": 24,
+    "productId": 8,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-made-and-crafted-womens-safari-denim-skirt-A05810000_10_Model%20Front.jpg"
+  },
+  {
+    "id": 25,
+    "productId": 9,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/Levis-Mens-Relaxed-Fit-Western-Shirt-A19190027_02_Back.jpg"
+  },
+  {
+    "id": 26,
+    "productId": 9,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/Levis-Mens-Relaxed-Fit-Western-Shirt-A19190027_10_Model%20Front.jpg"
+  },
+  {
+    "id": 27,
+    "productId": 9,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/Levis-Mens-Relaxed-Fit-Western-Shirt-A19190027_14_Details.jpg"
+  },
+  {
+    "id": 28,
+    "productId": 10,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-90s-trucker-jacket-A17430000_02_Back.jpg"
+  },
+  {
+    "id": 29,
+    "productId": 10,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-90s-trucker-jacket-A17430000_10_Model%20Front.jpg"
+  },
+  {
+    "id": 30,
+    "productId": 10,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-90s-trucker-jacket-A17430000_18_Details.jpg"
+  },
+  {
+    "id": 31,
+    "productId": 11,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-311-shaping-skinny-jeans-new-196260001_02_Back.jpg"
+  },
+  {
+    "id": 32,
+    "productId": 11,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-311-shaping-skinny-jeans-new-196260001_03_Side.jpg"
+  },
+  {
+    "id": 33,
+    "productId": 11,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-311-shaping-skinny-jeans-new-196260001_10_Model%20Front.jpg"
+  },
+  {
+    "id": 34,
+    "productId": 12,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-vintage-fit-trucker-jacket-773800060_02_Back.jpg"
+  },
+  {
+    "id": 35,
+    "productId": 12,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-vintage-fit-trucker-jacket-773800060_10_Model%20Front.jpg"
+  },
+  {
+    "id": 36,
+    "productId": 12,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-vintage-fit-trucker-jacket-773800060_19_Details.jpg"
+  },
+  {
+    "id": 37,
+    "productId": 13,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-gold-tab-tee-A37180021_02_Back.jpg"
+  },
+  {
+    "id": 38,
+    "productId": 13,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-gold-tab-tee-A37180021_10_Model%20Front.jpg"
+  },
+  {
+    "id": 39,
+    "productId": 13,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-gold-tab-tee-A37180021_13_Details.jpg"
+  },
+  {
+    "id": 40,
+    "productId": 14,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/Levis-Slim-Crew-Neck-Tee-322230457_02_Back.jpg"
+  },
+  {
+    "id": 41,
+    "productId": 14,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/Levis-Slim-Crew-Neck-Tee-322230457_03_Side.jpg"
+  },
+  {
+    "id": 42,
+    "productId": 14,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/Levis-Slim-Crew-Neck-Tee-322230457_10_Model_Front.jpg"
+  },
+  {
+    "id": 43,
+    "productId": 15,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-ribcage-straight-ankle-jeans-726930163_02_Back.jpg"
+  },
+  {
+    "id": 44,
+    "productId": 15,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-ribcage-straight-ankle-jeans-726930163_03_Side.jpg"
+  },
+  {
+    "id": 45,
+    "productId": 15,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-ribcage-straight-ankle-jeans-726930163_10_Model%20Front.jpg"
+  },
+  {
+    "id": 46,
+    "productId": 16,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-nola-oversized-shirt-A33620027_02_Back.jpg"
+  },
+  {
+    "id": 47,
+    "productId": 16,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-nola-oversized-shirt-A33620027_10_Model%20Front.jpg"
+  },
+  {
+    "id": 48,
+    "productId": 16,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-nola-oversized-shirt-A33620027_13_Details.jpg"
+  },
+  {
+    "id": 49,
+    "productId": 17,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-high-rise-denim-shorts-728780071_02_Back.jpg"
+  },
+  {
+    "id": 50,
+    "productId": 17,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-high-rise-denim-shorts-728780071_03_Side.jpg"
+  },
+  {
+    "id": 51,
+    "productId": 17,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-high-rise-denim-shorts-728780071_10_Model%20Front.jpg"
+  },
+  {
+    "id": 52,
+    "productId": 18,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-gold-tab-mens-bay-track-pants-A57010003_02_Back.jpg"
+  },
+  {
+    "id": 53,
+    "productId": 18,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-gold-tab-mens-bay-track-pants-A57010003_03_Side.jpg"
+  },
+  {
+    "id": 54,
+    "productId": 18,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-gold-tab-mens-bay-track-pants-A57010003_10_Model%20Front.jpg"
+  },
+  {
+    "id": 55,
+    "productId": 19,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-standard-hoodie-184870110_02_Back.jpg"
+  },
+  {
+    "id": 56,
+    "productId": 19,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-standard-hoodie-184870110_10_Model%20Front.jpg"
+  },
+  {
+    "id": 57,
+    "productId": 19,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-standard-hoodie-184870110_19_Details.jpg"
+  },
+  {
+    "id": 58,
+    "productId": 20,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-501-54-jeans-A46770001_02_Back.jpg"
+  },
+  {
+    "id": 59,
+    "productId": 20,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-501-54-jeans-A46770001_03_Side.jpg"
+  },
+  {
+    "id": 60,
+    "productId": 20,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-501-54-jeans-A46770001_10_Model%20Front.jpg"
+  },
+  {
+    "id": 61,
+    "productId": 21,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-large-l-pack-backpack-D75720010_02_Back.jpg"
+  },
+  {
+    "id": 62,
+    "productId": 21,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-large-l-pack-backpack-D75720010_02_Back.jpg"
+  },
+  {
+    "id": 63,
+    "productId": 21,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-large-l-pack-backpack-D75720010_14_Details.jpg"
+  },
+  {
+    "id": 64,
+    "productId": 22,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-cap-with-batwing-logo-D54480002_02_Back.jpg"
+  },
+  {
+    "id": 65,
+    "productId": 22,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-cap-with-batwing-logo-D54480002_03_Side.jpg"
+  },
+  {
+    "id": 66,
+    "productId": 22,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-cap-with-batwing-logo-D54480002_13_Details.jpg"
+  },
+  {
+    "id": 67,
+    "productId": 23,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/Levis-Womens-Veda-Denim-Dress-A58370002_02_Back.jpg"
+  },
+  {
+    "id": 68,
+    "productId": 23,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/Levis-Womens-Veda-Denim-Dress-A58370002_10_Model%20Front.jpg"
+  },
+  {
+    "id": 69,
+    "productId": 23,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/Levis-Womens-Veda-Denim-Dress-A58370002_14_Details.jpg"
+  },
+  {
+    "id": 70,
+    "productId": 24,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-jackson-worker-overshirt-195730201_02_Back.jpg"
+  },
+  {
+    "id": 71,
+    "productId": 24,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-jackson-worker-overshirt-195730201_10_Model%20Front.jpg"
+  },
+  {
+    "id": 72,
+    "productId": 24,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-jackson-worker-overshirt-195730201_01_Front.jpg"
+  },
+  {
+    "id": 73,
+    "productId": 25,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-louis-reversible-belt-D60080001_02_Back.jpg"
+  },
+  {
+    "id": 74,
+    "productId": 25,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-louis-reversible-belt-D60080001_03_Side.jpg"
+  },
+  {
+    "id": 75,
+    "productId": 25,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-louis-reversible-belt-D60080001_13_Details.jpg"
+  },
+  {
+    "id": 76,
+    "productId": 26,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-made-and-crafted-mens-oversized-type-ii-trucker-jacket-212610025_02_Back.jpg"
+  },
+  {
+    "id": 77,
+    "productId": 26,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-made-and-crafted-mens-oversized-type-ii-trucker-jacket-212610025_10_Model%20Front.jpg"
+  },
+  {
+    "id": 78,
+    "productId": 26,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-made-and-crafted-mens-oversized-type-ii-trucker-jacket-212610025_01_Front.jpg"
+  },
+  {
+    "id": 79,
+    "productId": 27,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-poster-logo-bucket-hat-D76090006_02_Back.jpg"
+  },
+  {
+    "id": 80,
+    "productId": 27,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-poster-logo-bucket-hat-D76090006_14_Details.jpg"
+  },
+  {
+    "id": 81,
+    "productId": 27,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-poster-logo-bucket-hat-D76090006_01_Front.jpg"
+  },
+  {
+    "id": 82,
+    "productId": 28,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/Levis-Mens-Mini-Graphic-Baseball-Cap-D78130003_01_Front.jpg"
+  },
+  {
+    "id": 83,
+    "productId": 28,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/Levis-Mens-Mini-Graphic-Baseball-Cap-D78130003_02_Back.jpg"
+  },
+  {
+    "id": 84,
+    "productId": 28,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/Levis-Mens-Mini-Graphic-Baseball-Cap-New-D78130003_14_Details.jpg"
+  },
+  {
+    "id": 85,
+    "productId": 29,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-sutro-anorak-jacket-A20400000_02_Back.jpg"
+  },
+  {
+    "id": 86,
+    "productId": 29,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-sutro-anorak-jacket-A20400000_10_Model%20Front.jpg"
+  },
+  {
+    "id": 87,
+    "productId": 29,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-mens-sutro-anorak-jacket-A20400000_19_Details.jpg"
+  },
+  {
+    "id": 88,
+    "productId": 30,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-bucket-hat-D75840006_02_Back.jpg"
+  },
+  {
+    "id": 89,
+    "productId": 30,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-bucket-hat-D75840006_13_Details.jpg"
+  },
+  {
+    "id": 90,
+    "productId": 30,
+    "imgUrl": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=undefined,height=undefined,quality=75,format=auto,fit=cover,g=top/in-resources/ff5c6da1-2d74-4846-96c9-ccd65d766244/Images/ProductImages/Source/levis-womens-bucket-hat-D75840006_15_Details.jpg"
+  }
+]

@@ -1,0 +1,21 @@
+services:
+  orchestrator:
+    build: './orchestrator'
+    ports: 
+      - "80:4000"
+    environment:
+      USER_SERVICE_URL: ${USER_SERVICE_URL}
+      APP_SERVICE_URL: ${APP_SERVICE_URL}
+
+  service-user:
+    build: './services/user'
+    ports: 
+      - "4001:4001"
+
+  service-app:
+    build: './services/app'
+    ports: 
+      - "4002:4002"
+    environment:
+      DATABASE_URL: ${DATABASE_URL}
+      NODE_ENV: "production"
